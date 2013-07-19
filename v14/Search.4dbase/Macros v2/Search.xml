@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE macros SYSTEM "http://www.4d.com/dtd/2007/macros.dtd" >
+
+<macros>
+
+	<macro 
+		in_menu =			"false" 
+		method_event =		""
+		name =				"Search Form Event" 
+		type_ahead =		"true"
+		type_ahead_text =	"searchformevent"
+		version =			"2"><text><method>Search_Macro</method></text>
+	</macro>
+</macros>
